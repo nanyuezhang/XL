@@ -1,0 +1,2 @@
+/root/yolo/darknet/work\data\1 (121).jpg
+/root/yolo/darknet/work\data\1 (57).jpg

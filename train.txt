@@ -1,0 +1,8 @@
+/root/yolo/darknet/work\data\1 (153).jpg
+/root/yolo/darknet/work\data\1 (185).jpg
+/root/yolo/darknet/work\data\1 (217).jpg
+/root/yolo/darknet/work\data\1 (249).jpg
+/root/yolo/darknet/work\data\1 (281).jpg
+/root/yolo/darknet/work\data\1 (313).jpg
+/root/yolo/darknet/work\data\1 (377).jpg
+/root/yolo/darknet/work\data\1 (89).jpg
